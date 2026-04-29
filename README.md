@@ -95,11 +95,11 @@
 
 ## 📸 界面截图 | Screenshots
 
-![德州扑克游戏大厅](screenshots/FD0C8107DC69B4472B8D902A81A91EF6.jpg)
+![德州扑克私人俱乐部大厅](screenshots/CBCC8DD8C831903E54EFDAD0618D1384.jpg)
 
-![英文版游戏大厅](screenshots/D7267F0045908FF93C6B5FFACDE12C60.jpg)
+![牌桌实时对战](screenshots/D7267F0045908FF93C6B5FFACDE12C60.jpg)
 
-![牌桌实时对战](screenshots/CBCC8DD8C831903E54EFDAD0618D1384.jpg)
+![俱乐部房间与功能展示](screenshots/FD0C8107DC69B4472B8D902A81A91EF6.jpg)
 
 
 ---
